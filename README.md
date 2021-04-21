@@ -1,8 +1,8 @@
 # TheBreach---GameHighed-Jam
 
-# Our character tries to jump with a parachute to go to Mars, which is her biggest fantasy in her life, escape from attacks from a military base and reach Mars with a rocket.
+Our character tries to jump with a parachute to go to Mars, which is her biggest fantasy in her life, escape from attacks from a military base and reach Mars with a rocket.
 
-# A game we developed for game jam in 2 days.
+A game we developed for game jam in 2 days.
 
 # Developers 
   - Oğuz SEKMEN
